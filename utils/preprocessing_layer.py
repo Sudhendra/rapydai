@@ -1,6 +1,6 @@
 import cv2
 
-class Preprocessing_layer:
+class PreprocessingLayer:
 
     # Read image
     def cv2_read_image(self, filepath):
@@ -36,5 +36,5 @@ class Preprocessing_layer:
         # print("Writing output file to ", filepath)
         cv2.imwrite(filepath, cv2_img)
     
-    
+
 

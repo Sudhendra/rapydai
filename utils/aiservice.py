@@ -1,6 +1,5 @@
 import requests
 
-class AI_service:
 class AIService:
 
     def rapydai_vision(self, filepath, task, provider = "gcp", accountid = '', token = ''):

@@ -2,6 +2,7 @@ import requests
 import json
 from google.colab import files
 
+class InputLayer:
 
     # Upload from URL
     def file_upload_url(self, URL):

@@ -1,4 +1,4 @@
 # rapydai
 
-Creating rudimentary functions for AI services
+Modularized solution architecture for RAPYD.AI API
  
